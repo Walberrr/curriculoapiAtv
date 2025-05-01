@@ -8,6 +8,8 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/curriculos")
+
+
 public class CurriculoController {
 
     private final CurriculoService service;
